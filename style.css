@@ -3,6 +3,7 @@ body {
     background: black;
     margin: 0px;
     font-family: "Comic Neue", cursive;
+    margin-bottom: 100px;
 }    
 
 header {
@@ -41,6 +42,7 @@ p {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-videos img {
@@ -50,4 +52,8 @@ p {
 .categoria-videos img: hover {
     opacity: 1.0;
     border: 1px solid green;
+}
+
+.categoria h2{
+    color: green;
 }
