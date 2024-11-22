@@ -42,21 +42,21 @@ img {
     gap: 10px;
 }
 
-.categoria {
+.Videos {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
 }
 
-.categoria-videos img {
+.Videos-videos img {
     opacity: 0.5;
     height: 100px;
 }
-.categoria-videos img:hover {
+.Videos-videos img:hover {
     opacity: 1.0;
     border: 1px solid green;
 }
 
-.categoria h2{
+.Videos h2{
     color: green;
 }
